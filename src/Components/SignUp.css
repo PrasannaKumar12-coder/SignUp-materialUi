@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: radial-gradient(circle, #041527, #080d14);
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.input-box:hover {
+    border: 1px solid #505b75;
+    border-radius: "10px" !important;
+}
+.loginThoughButton:hover{
+    background-color: rgb(12, 12, 12) !important;
+}
